@@ -31,21 +31,21 @@ const Index = () => {
         <Flex direction={{ base: "column", md: "row" }} gap={4}>
           <Box p={4} shadow="md" borderWidth="1px" flex="1">
             <Heading as="h4" size="sm">
-              Consulting
+              Residency Application
             </Heading>
-            <Text mt={2}>Expert advice and strategic planning for your business needs.</Text>
+            <Text mt={2}>Assistance with all aspects of applying for residency in Turkey.</Text>
           </Box>
           <Box p={4} shadow="md" borderWidth="1px" flex="1">
             <Heading as="h4" size="sm">
-              Project Management
+              Naturalization Process
             </Heading>
-            <Text mt={2}>Comprehensive management solutions from start to finish.</Text>
+            <Text mt={2}>Guidance through the process of becoming a Turkish citizen.</Text>
           </Box>
           <Box p={4} shadow="md" borderWidth="1px" flex="1">
             <Heading as="h4" size="sm">
-              Training & Development
+              Asylum Services
             </Heading>
-            <Text mt={2}>Professional training programs to enhance your team's skills.</Text>
+            <Text mt={2}>Support for individuals seeking asylum and refugee status.</Text>
           </Box>
         </Flex>
       </Box>
