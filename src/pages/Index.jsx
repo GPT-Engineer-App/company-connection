@@ -8,7 +8,9 @@ const Index = () => {
         <Heading as="h1" size="xl">
           Business Inc.
         </Heading>
-        <Button colorScheme="blue">Contact Us</Button>
+        <Button colorScheme="blue" as="a" href="/qa">
+          Q&A Section
+        </Button>
       </Flex>
       <Flex direction={{ base: "column", md: "row" }} py={4}>
         <Box flex="1" pr={4}>
