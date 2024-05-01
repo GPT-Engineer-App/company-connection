@@ -20,8 +20,8 @@ const Index = () => {
           <Heading as="h2" size="lg">
             About Us
           </Heading>
-          <Text fontSize="lg">Business Inc. is a leading firm in the industry with over 20 years of experience. We provide top-notch services to our clients, ensuring high-quality results and satisfaction.</Text>
-          <Text fontSize="lg">Our team consists of highly skilled professionals dedicated to delivering excellence in all our projects. We specialize in a variety of services, including consulting, project management, and more.</Text>
+          <Text fontSize="lg">Turkish Migrational Services is a dedicated agency assisting individuals and families in navigating the complexities of immigration to Turkey. With over 20 years of experience, we ensure a smooth and reliable process.</Text>
+          <Text fontSize="lg">Our team of experts specializes in visa processing, residency applications, and citizenship services, committed to providing personalized support throughout your journey to Turkey.</Text>
         </VStack>
       </Flex>
       <Box py={4}>
