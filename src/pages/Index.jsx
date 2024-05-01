@@ -29,19 +29,19 @@ const Index = () => {
           Our Services
         </Heading>
         <Flex direction={{ base: "column", md: "row" }} gap={4}>
-          <Box p={4} shadow="md" borderWidth="1px" flex="1">
+          <Box p={4} shadow="md" borderWidth="1px" flex="1" as="a" href="/residency-application">
             <Heading as="h4" size="sm">
               Residency Application
             </Heading>
             <Text mt={2}>Assistance with all aspects of applying for residency in Turkey.</Text>
           </Box>
-          <Box p={4} shadow="md" borderWidth="1px" flex="1">
+          <Box p={4} shadow="md" borderWidth="1px" flex="1" as="a" href="/naturalization-process">
             <Heading as="h4" size="sm">
               Naturalization Process
             </Heading>
             <Text mt={2}>Guidance through the process of becoming a Turkish citizen.</Text>
           </Box>
-          <Box p={4} shadow="md" borderWidth="1px" flex="1">
+          <Box p={4} shadow="md" borderWidth="1px" flex="1" as="a" href="/asylum-services">
             <Heading as="h4" size="sm">
               Asylum Services
             </Heading>
