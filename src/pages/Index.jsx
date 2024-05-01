@@ -6,7 +6,7 @@ const Index = () => {
     <Container maxW="container.xl" p={4}>
       <Flex justifyContent="space-between" alignItems="center" py={4}>
         <Heading as="h1" size="xl">
-          Business Inc.
+          Turkish Migrational Services
         </Heading>
         <Button colorScheme="blue" as="a" href="/qa">
           Q&A Section
